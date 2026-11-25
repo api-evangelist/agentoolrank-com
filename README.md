@@ -66,7 +66,7 @@
 
 AgentoolRank is a directory that ranks open-source AI agent tools, MCP servers and frameworks by live GitHub and package-registry activity. It tracks over 600 tools, providing data-driven rankings, submission portals, and resources for developers building AI agents. The site offers blueprints, comparisons, weekly updates, and a marketplace for featured listings, helping users discover and evaluate AI agent tooling.
 
-**Areas:** AI · Directory · Tools · Ranking · Open-Source
+**Areas:** Artificial Intelligence · Directory · Tools · Rankings · Open Source
 
 ## AgentoolRank on APIs.io
 
@@ -84,7 +84,7 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Agentoolrank Com Domain Security](https://apis.io/security/agentoolrank-com/agentoolrank-com-domain-security/)
+- [AgentoolRank Domain Security](https://apis.io/security/agentoolrank-com/agentoolrank-com-domain-security/)
 
 ## Where to find this API
 
@@ -101,7 +101,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 20.2** — emerging · rubric 0.25.0 · scored 2026-11-01
+**Kin Score 18.2** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
@@ -110,16 +110,16 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Contract governance | 0.0 |
 | Operational transparency | 0.0 |
 | Developer ergonomics | 38.1 |
-| Access clarity | 31.6 |
+| Access clarity | 25.5 |
 
-**Agent readiness 3.1** — human-only
+**Agent readiness 0.0** — human-only
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | — |
 | Agentic Access | — |
 | Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
+| MCP Server | — |
 | Auth Clarity | — |
 | Idempotency | — |
 | Error Semantics | — |
@@ -137,8 +137,12 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 12.7** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 7.3** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/agentoolrank-com/](https://apis.io/providers/agentoolrank-com/).
 
